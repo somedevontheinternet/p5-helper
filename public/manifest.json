@@ -1,0 +1,8 @@
+{
+  "short_name": "p5-helper",
+  "name": "Persona 5 confidant helper",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
